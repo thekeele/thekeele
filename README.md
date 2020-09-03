@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hey 👋 I'm Mark Keele</h1>
+<h3 align="center">I love building and connecting systems</h3>
 
-<!--
-**thekeele/thekeele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :point_right: Currently a [Software Engineer](https://www.youtube.com/watch?v=SVGgvevWnls) at a [Perscription Delivery](https://scriptdrop.co/) Startup :chart_with_upwards_trend:
 
-Here are some ideas to get you started:
+- :point_left: Previously a [Software Engineer](https://miro.medium.com/max/910/1*snTXFElFuQLSFDnvZKJ6IA.png) at an [Outdoor Recreation Mapping](https://www.onxmaps.com/) Startup :chart_with_upwards_trend:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **[Elixir](https://elixir-lang.org/)** :heart_eyes: 
+
+- :construction_worker: I maintain a [Hex](https://hex.pm/) package for **[streaming tweets from Twitter](https://hex.pm/packages/twitter_stream)** :construction:
+
+- 🔭 Checkout **[Bitfeels](https://bitfeels.keele.codes)** to see real-time sentiment analysis of tweets :heart:
+
+- 🌱 I’m currently learning **[Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view), [Hot Code Reloading](https://github.com/edeliver/edeliver), [Julia](https://julialang.org/)** :nerd_face:
+
+- 👨‍💻 Visit my website at **[https://keele.codes](https://keele.codes)** :eyes:
+
+- :mailbox_with_no_mail: Reach me at **mark@keele.codes** :mailbox_with_mail:
+
+- ⚡ Fun fact :sparkles: **My profile pic is on top of [Mt. Fuji](https://en.wikipedia.org/wiki/Mount_Fuji)** :mount_fuji:
